@@ -1,0 +1,1 @@
+# fullscreen-app-that-hides-cursor
